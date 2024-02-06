@@ -5,10 +5,6 @@
 - 📫 How to reach me www.linkedin.com/in/
 simone-pangardi-143636239
 
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <!---
 Simone-Pangardi/Simone-Pangardi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
