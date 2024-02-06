@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Simone-Pangardi
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning Vue.JS
-- 💞️ I’m looking to collaborate on projects
+- 💞️I look to collaborate on personal projects
 - 📫 How to reach me www.linkedin.com/in/
 simone-pangardi-143636239
 
